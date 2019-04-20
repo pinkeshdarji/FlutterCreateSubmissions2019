@@ -2,7 +2,7 @@
 
 
 # Futter Create Submissions 2019
-An Effort to gather all Flutter Create App submissions at one place.
+An Effort to gather all Flutter Create App submissions at one place from various resources.
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/pinkeshdarji) [![Twitter](https://img.shields.io/twitter/url/https/github.com/pinkeshdarji/FutterCreateSubmissions2019.svg?style=social)](https://twitter.com/intent/tweet?text=Amazing:&url=https%3A%2F%2Fgithub.com%2Fpinkeshdarji%2FFutterCreateSubmissions2019)
 
