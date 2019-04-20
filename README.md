@@ -1,11 +1,16 @@
 
 
-# Futter Create Submissions 2019
-All Flutter Create App submissions at one place.
 
-  | [flutter_game](https://github.com/rajajain08/flutter_game) | [Typer](https://github.com/Rhymond/flutter-create) | [Flutter Widget Quiz](https://github.com/mono0926/widget-quiz)
+# Futter Create Submissions 2019
+An Effort to gather all Flutter Create App submissions at one place.
+
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/pinkeshdarji) [![Twitter](https://img.shields.io/twitter/url/https/github.com/pinkeshdarji/FutterCreateSubmissions2019.svg?style=social)](https://twitter.com/intent/tweet?text=Amazing:&url=https%3A%2F%2Fgithub.com%2Fpinkeshdarji%2FFutterCreateSubmissions2019)
+
+## With preview
+
+  | [flutter_game](https://github.com/rajajain08/flutter_game) | [Typer](https://github.com/Rhymond/flutter-create) | [TrillApp](https://github.com/iampawan/TrillApp)
 |--|--|--|
-<img src="https://github.com/rajajain08/flutter_game/blob/flare_intigration/screenshots/sf12.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/Rhymond/flutter-create/blob/master/previ.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/mono0926/widget-quiz/blob/master/screenshots/quiz.gif" height="500" alt="Screenshot"/>
+<img src="https://github.com/rajajain08/flutter_game/blob/flare_intigration/screenshots/sf12.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/Rhymond/flutter-create/blob/master/previ.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/iampawan/TrillApp/blob/master/ss1.JPG" height="500" alt="Screenshot"/>
 
 |[PrayerBeads](https://github.com/pinkeshdarji/PrayerBeads) | [Elements-App](https://github.com/brianrobles204/Elements-App) |[flutty_loops](https://github.com/rxlabz/flutty_loops)
 |--|--|--|
@@ -36,11 +41,46 @@ All Flutter Create App submissions at one place.
 |--|--|--|
 <img src="https://github.com/remixie/Blueprint-Touch/blob/master/layout.png" height="500"  width="280" alt="Screenshot"/> | <img src="https://user-images.githubusercontent.com/24698014/55963837-2ad31280-5c91-11e9-82a2-83965362aa6e.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/rnagella/learn_emoji/blob/master/screenshots/ios_empty_search.png" height="500" width="280" alt="Screenshot"/>
 
-|[fidgetdice](https://github.com/jastip/fidgetdice) |
-|--|
-|<img src="https://github.com/jastip/fidgetdice/blob/master/demo.gif" height="500" width="280" alt="Screenshot"/> |
+|[fidgetdice](https://github.com/jastip/fidgetdice) | [Flutter Widget Quiz](https://github.com/mono0926/widget-quiz)|
+|--|--|
+|<img src="https://github.com/jastip/fidgetdice/blob/master/demo.gif" height="500" width="280" alt="Screenshot"/> |<img src="https://github.com/mono0926/widget-quiz/blob/master/screenshots/quiz.gif" height="500" alt="Screenshot"/>|
 
-
+## Without preview
 |[FlutterTesseract](https://github.com/knezzz/FlutterTesseract) |[mudeo](https://github.com/hillelcoren/mudeo)|[Tic Tac Toe Game](https://github.com/the4thfloor/flutter_create)|[PAPER MENU](https://github.com/pedromassango/flutter_contest)|[slidepuzzle](https://github.com/carloxavier/slidepuzzle)|
 |--|--|--|--|--|
 
+## Found on Tweeter
+- [Morkode](https://twitter.com/Joey_Dunivan/status/1115722505061306374)
+- [Rain simulator](https://twitter.com/vfleurima/status/1115045358487339013)
+- [Solar System](https://twitter.com/OrestesGaolin/status/1115024745232326657)
+- [BiologyDive](https://twitter.com/marcin_szalek/status/1114609045447630848)
+- [Cook](https://twitter.com/manojaut1/status/1114817605447999497)
+- [Comicity](https://twitter.com/ronak197jain/status/1115738300579557381)
+- [Sharing data offline using sound](https://twitter.com/imthepk/status/1114842665479073792)
+- [Liquid animator](https://twitter.com/MisterAlek/status/1114983544462426121)
+
+## Catch me here
+<a href="https://twitter.com/Pinkeshdarji"><img src="./icons/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://medium.com/@pinkesh.earth"><img src="./icons/medium-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/pinkesh-darji-28346111b/"><img src="./icons/linkedin-icon.png?raw=true" width="60"></a>
+
+## Contribute
+1. Fork the the project
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Make required changes and commit (git commit -am 'Add some feature')
+4. Push to the branch (git push origin my-new-feature)
+5. Create new Pull Request
+
+## Getting Started with Flutter
+
+For help getting started with Flutter, view online
+[documentation](https://flutter.io/)
+
+## License
+Copyright 2019 Pinkesh Darji
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
