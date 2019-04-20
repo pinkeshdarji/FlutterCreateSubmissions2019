@@ -60,9 +60,9 @@ An Effort to gather all Flutter Create App submissions at one place.
 - [Liquid animator](https://twitter.com/MisterAlek/status/1114983544462426121)
 
 ## Catch me here
-<a href="https://twitter.com/Pinkeshdarji"><img src="./icons/twitter-icon.png?raw=true" width="60"></a>
-<a href="https://medium.com/@pinkesh.earth"><img src="./icons/medium-icon.png?raw=true" width="60"></a>
-<a href="https://www.linkedin.com/in/pinkesh-darji-28346111b/"><img src="./icons/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://twitter.com/Pinkeshdarji"><img src="twitter-icon.png?raw=true" width="60"></a>
+<a href="https://medium.com/@pinkesh.earth"><img src="medium-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/pinkesh-darji-28346111b/"><img src="linkedin-icon.png?raw=true" width="60"></a>
 
 ## Contribute
 1. Fork the the project
