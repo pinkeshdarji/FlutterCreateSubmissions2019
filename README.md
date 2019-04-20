@@ -64,7 +64,7 @@ An Effort to gather all Flutter Create App submissions at one place.
 <a href="https://medium.com/@pinkesh.earth"><img src="medium-icon.png?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/pinkesh-darji-28346111b/"><img src="linkedin-icon.png?raw=true" width="60"></a>
 
-## Contribute
+## Please Contribute
 1. Fork the the project
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Make required changes and commit (git commit -am 'Add some feature')
