@@ -11,7 +11,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 [![Medium](https://img.shields.io/badge/Medium-pinkeshDarji-green.svg)](https://medium.com/@pinkesh.earth)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pinkeshDarji-blue.svg)](https://www.linkedin.com/in/pinkesh-darji-28346111b/)
 
-####  If you would to like to link your github repo or change screenshot with GIF for your porject listed here, Please check how to contribute section at last. ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+####  If you would like to link your github repo or change screenshot with GIF for your porject listed here, Please check how to contribute section at last. ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
 ### If you :heart: the effort then star :star: it.
 
