@@ -104,7 +104,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/pizza_cut_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/Oro - Julien Grand-Chavin_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/play_cards_02.png" height="500" width="280" alt="Screenshot"/>|
 
-|just_a_button|lights_out-master|gradient_swipe|
+|just_a_button|[Lights Out](https://github.com/keidroid/lights_out)|gradient_swipe|
 |--|--|--|
 |<img src="./screenshots/just_a_button_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/lights_out-master_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/gradient_swipe_01.png" height="500" width="280" alt="Screenshot"/>|
 
