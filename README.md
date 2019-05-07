@@ -204,7 +204,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/adam_create_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/begood - Long Nguyen Hoang_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/heads_up_flutter_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|dash_run|queue_beep_mobile|memory-master-master|
+|[dash_run](https://github.com/amugofjava/dash_run)|queue_beep_mobile|memory-master-master|
 |--|--|--|
 |<img src="./screenshots/dash_run_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/queue_beep_mobile_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/memory-master-master_01.png" height="500" width="280" alt="Screenshot"/>|
 
