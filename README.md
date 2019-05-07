@@ -15,13 +15,13 @@ An Effort to gather all Flutter Create App submissions at one place from various
 
 ### If you :heart: the effort then star :star: it.
 
-  | [flutter_game](https://github.com/rajajain08/flutter_game) | [Typer](https://github.com/Rhymond/flutter-create) | [TrillApp](https://github.com/iampawan/TrillApp)
+  | [flutter_game](https://github.com/rajajain08/flutter_game) | [Typer](https://github.com/Rhymond/flutter-create) | [day_to_day](https://github.com/sbis04/day_to_day)
 |--|--|--|
-<img src="https://github.com/rajajain08/flutter_game/blob/flare_intigration/screenshots/sf12.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/Rhymond/flutter-create/blob/master/previ.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/iampawan/TrillApp/blob/master/ss1.JPG" height="500" width="260"  alt="Screenshot"/>
+<img src="https://github.com/rajajain08/flutter_game/blob/flare_intigration/screenshots/sf12.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/Rhymond/flutter-create/blob/master/previ.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/sbis04/day_to_day/blob/master/screenshot/daytoday.gif" height="500" width="260"  alt="Screenshot"/>
 
-|[PrayerBeads](https://github.com/pinkeshdarji/PrayerBeads) | [Elements-App](https://github.com/brianrobles204/Elements-App) |[flutty_loops](https://github.com/rxlabz/flutty_loops)
+|[PrayerBeads](https://github.com/pinkeshdarji/PrayerBeads) | [Elements-App](https://github.com/brianrobles204/Elements-App) |[TrillApp](https://github.com/iampawan/TrillApp)
 |--|--|--|
-<img src="https://github.com/pinkeshdarji/PrayerBeads/blob/master/preview/prayerBeadsGIF.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/brianrobles204/Elements-App/blob/master/assets/screenshots/screencast.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/rxlabz/flutty_loops/blob/master/assets/screenshot.png" height="500" width="280" alt="Screenshot"/>
+<img src="https://github.com/pinkeshdarji/PrayerBeads/blob/master/preview/prayerBeadsGIF.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/brianrobles204/Elements-App/blob/master/assets/screenshots/screencast.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/iampawan/TrillApp/blob/master/ss1.JPG" height="500" width="260" alt="Screenshot"/>
 
 |[flutter_randomize](https://github.com/deven98/flutter_randomize) | [flutterpomodoro](https://github.com/miajimyu/flutterpomodoro) |[NGNL](https://github.com/takaaki-abe/NGNL)
 |--|--|--|
@@ -514,9 +514,9 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/flutter_app_cuberto_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create_01 (3).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/k5_02.png" height="500" width="280" alt="Screenshot"/>|
 
-|flutterstein-3d|day_to_day|mask_transition|
+|flutterstein-3d|[flutty_loops](https://github.com/rxlabz/flutty_loops)|mask_transition|
 |--|--|--|
-|<img src="./screenshots/flutterstein-3d - Anton M_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/day_to_day_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/mask_transition_02.png" height="500" width="280" alt="Screenshot"/>|
+|<img src="./screenshots/flutterstein-3d - Anton M_02.png" height="500" width="280" alt="Screenshot"/>|<img src="https://github.com/rxlabz/flutty_loops/blob/master/assets/screenshot.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/mask_transition_02.png" height="500" width="280" alt="Screenshot"/>|
 
 |hupomnesis-master|news_app|random_walk_draw|
 |--|--|--|
