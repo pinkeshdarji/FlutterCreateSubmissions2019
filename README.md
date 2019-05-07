@@ -17,7 +17,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 
   | [flutter_game](https://github.com/rajajain08/flutter_game) | [Typer](https://github.com/Rhymond/flutter-create) | [day_to_day](https://github.com/sbis04/day_to_day)
 |--|--|--|
-<img src="https://github.com/rajajain08/flutter_game/blob/flare_intigration/screenshots/sf12.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/Rhymond/flutter-create/blob/master/previ.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/sbis04/day_to_day/blob/master/screenshot/daytoday.gif" height="500" width="260"  alt="Screenshot"/>
+<img src="https://github.com/rajajain08/flutter_game/blob/flare_intigration/screenshots/sf12.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/Rhymond/flutter-create/blob/master/previ.gif" height="500" alt="Screenshot"/> | <img src="https://github.com/sbis04/day_to_day/blob/master/screenshot/daytoday.gif" height="500" alt="Screenshot"/>
 
 |[PrayerBeads](https://github.com/pinkeshdarji/PrayerBeads) | [Elements-App](https://github.com/brianrobles204/Elements-App) |[TrillApp](https://github.com/iampawan/TrillApp)
 |--|--|--|
