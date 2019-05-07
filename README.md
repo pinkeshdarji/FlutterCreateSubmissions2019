@@ -560,7 +560,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 
 |riddle - Kartik Sharma|flutter_criss_cross_xo|roll_the_die - Roshan Rahman|
 |--|--|--|
-|<img src="./screenshots/quiz_app_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/pashatto_rev_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/fastmad_01.png" height="500" width="280" alt="Screenshot"/>|
+|<img src="./screenshots/quiz_app_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/pashatto_rev_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/roll_the_die%20-%20Roshan%20Rahman_02.png" height="500" width="280" alt="Screenshot"/>|
 
 |stopwatch-master|headlines|biology_dive|
 |--|--|--|
