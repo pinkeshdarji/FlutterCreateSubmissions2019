@@ -374,7 +374,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/infinite_loop_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create 2_02 (3).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_contest5kb_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|quiz_app|pashatto_rev|fastmad|
+|[quiz_app](https://github.com/AmrDeveloper/FlutterQuizGame)|pashatto_rev|fastmad|
 |--|--|--|
 |<img src="./screenshots/quiz_app_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/pashatto_rev_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/fastmad_01.png" height="500" width="280" alt="Screenshot"/>|
 
