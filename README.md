@@ -252,7 +252,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/chat_interaction_02 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/constellations_02 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/tttws_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|seasons - Александр Шилов|anony_chat|FlutterRedditViewer|
+|seasons - Александр Шилов|[anony_chat](https://github.com/mit-73/anony_chat)|FlutterRedditViewer|
 |--|--|--|
 |<img src="./screenshots/seasons - Александр Шилов_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/anony_chat_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/FlutterRedditViewer_02.png" height="500" width="280" alt="Screenshot"/>|
 
