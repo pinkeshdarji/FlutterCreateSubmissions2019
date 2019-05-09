@@ -244,9 +244,9 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/count_the_sheep_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/live-shades-app-master_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/focus_app_02.png" height="500" width="280" alt="Screenshot"/>|
 
-|Character-master|aqiapp|translate|
+|[Character](https://github.com/krokyze/Character) |aqiapp|translate|
 |--|--|--|
-|<img src="./screenshots/Character-master_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/aqiapp_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/translate_01 (1).png" height="500" width="280" alt="Screenshot"/>|
+|<img src="https://github.com/krokyze/Character/blob/master/preview.gif" height="500" alt="Screenshot"/>|<img src="./screenshots/aqiapp_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/translate_01 (1).png" height="500" width="280" alt="Screenshot"/>|
 
 |chat_interaction|constellations|tttws|
 |--|--|--|
