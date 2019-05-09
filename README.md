@@ -246,7 +246,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 
 |[Character](https://github.com/krokyze/Character) |aqiapp|translate|
 |--|--|--|
-|<img src="https://github.com/krokyze/Character/blob/master/preview.gif" height="500" alt="Screenshot"/>|<img src="./screenshots/aqiapp_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/translate_01 (1).png" height="500" width="280" alt="Screenshot"/>|
+|<img src="https://github.com/krokyze/Character/blob/master/preview.gif" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/aqiapp_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/translate_01 (1).png" height="500" width="280" alt="Screenshot"/>|
 
 |chat_interaction|constellations|tttws|
 |--|--|--|
