@@ -1,4 +1,4 @@
-
+﻿
 
 <img src="screenshots/fcsubmissionsimg.png"  alt="Screenshot"/>
 
@@ -64,9 +64,9 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/project - Mustafa Khaled_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create_project_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/chucknorrisleet_01 (1).png" height="500" width="280" alt="Screenshot"/>|
 
-|Comical - Meghanath Ganji|bmi_calc|create_aloisdeniel - Aloïs Deniel|
+|[Comical](https://github.com/naththeprince/comical) - Meghanath Ganji|bmi_calc|create_aloisdeniel - Aloïs Deniel|
 |--|--|--|
-|<img src="./screenshots/Comical - Meghanath Ganji_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/bmi_calc_01 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/create_aloisdeniel - Aloïs Deniel_02.png" height="500" width="280" alt="Screenshot"/>|
+|<img src="https://github.com/naththeprince/comical/blob/master/samples/comical-demo.gif" height="607" width="280" alt="Screenshot"/>|<img src="./screenshots/bmi_calc_01 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/create_aloisdeniel - Aloïs Deniel_02.png" height="500" width="280" alt="Screenshot"/>|
 
 |relax|SwearFiltr - Mark Anthony|flutter_create_astiglme|
 |--|--|--|
@@ -80,7 +80,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/flutter_create_contest_02 (2).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/pian_bol_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/amnaturer_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|Contest-master|20pics - Gergely Kőrössy|flutter_flare_actor-master|
+|Contest-master|20pics - Gergely Kőrössy|flutter_flare_actor-master|
 |--|--|--|
 |<img src="./screenshots/flutter_contest-master_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/20pics - Gergely Kőrössy_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_flare_actor-master_01.png" height="500" width="280" alt="Screenshot"/>|
 
@@ -104,7 +104,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/pizza_cut_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/Oro - Julien Grand-Chavin_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/play_cards_02.png" height="500" width="280" alt="Screenshot"/>|
 
-|just_a_button|lights_out-master|gradient_swipe|
+|just_a_button|[Lights Out](https://github.com/keidroid/lights_out)|gradient_swipe|
 |--|--|--|
 |<img src="./screenshots/just_a_button_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/lights_out-master_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/gradient_swipe_01.png" height="500" width="280" alt="Screenshot"/>|
 
@@ -204,7 +204,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/adam_create_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/begood - Long Nguyen Hoang_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/heads_up_flutter_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|dash_run|queue_beep_mobile|memory-master-master|
+|[dash_run](https://github.com/amugofjava/dash_run)|queue_beep_mobile|memory-master-master|
 |--|--|--|
 |<img src="./screenshots/dash_run_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/queue_beep_mobile_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/memory-master-master_01.png" height="500" width="280" alt="Screenshot"/>|
 
@@ -240,19 +240,19 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/zoo_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/bezier_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/naturadio_02.png" height="500" width="280" alt="Screenshot"/>|
 
-|count_the_sheep|live-shades-app-master|focus_app|
+|count_the_sheep|[Live Shades](https://github.com/JuliaRechkunova/live-shades-app)|focus_app|
 |--|--|--|
 |<img src="./screenshots/count_the_sheep_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/live-shades-app-master_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/focus_app_02.png" height="500" width="280" alt="Screenshot"/>|
 
-|Character-master|aqiapp|translate|
+|[Character](https://github.com/krokyze/Character) |aqiapp|translate|
 |--|--|--|
-|<img src="./screenshots/Character-master_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/aqiapp_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/translate_01 (1).png" height="500" width="280" alt="Screenshot"/>|
+|<img src="https://github.com/krokyze/Character/blob/master/preview.gif" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/aqiapp_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/translate_01 (1).png" height="500" width="280" alt="Screenshot"/>|
 
 |chat_interaction|constellations|tttws|
 |--|--|--|
 |<img src="./screenshots/chat_interaction_02 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/constellations_02 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/tttws_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|seasons - Александр Шилов|anony_chat|FlutterRedditViewer|
+|seasons - Александр Шилов|[anony_chat](https://github.com/mit-73/anony_chat)|FlutterRedditViewer|
 |--|--|--|
 |<img src="./screenshots/seasons - Александр Шилов_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/anony_chat_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/FlutterRedditViewer_02.png" height="500" width="280" alt="Screenshot"/>|
 
@@ -374,7 +374,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/infinite_loop_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create 2_02 (3).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_contest5kb_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|quiz_app|pashatto_rev|fastmad|
+|[quiz_app](https://github.com/AmrDeveloper/FlutterQuizGame)|pashatto_rev|fastmad|
 |--|--|--|
 |<img src="./screenshots/quiz_app_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/pashatto_rev_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/fastmad_01.png" height="500" width="280" alt="Screenshot"/>|
 
@@ -486,7 +486,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/story_maker_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/praga_flutter_app_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/Flutter_Create-master_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|SOUNDBOARD - Ignacio Echeverría|create|align_your_horizont|
+|SOUNDBOARD - Ignacio Echeverría|create|align_your_horizont|
 |--|--|--|
 |<img src="./screenshots/SOUNDBOARD - Ignacio Echeverría_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/create_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/align_your_horizont_02.png" height="500" width="280" alt="Screenshot"/>|
 
@@ -514,7 +514,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/flutter_app_cuberto_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create_01 (3).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/k5_02.png" height="500" width="280" alt="Screenshot"/>|
 
-|flutterstein-3d|day_to_day|mask_transition|
+|[flutterstein-3d](https://github.com/atamocius/flutterstein-3d)|day_to_day|mask_transition|
 |--|--|--|
 |<img src="./screenshots/flutterstein-3d - Anton M_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/day_to_day_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/mask_transition_02.png" height="500" width="280" alt="Screenshot"/>|
 
@@ -560,7 +560,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 
 |riddle - Kartik Sharma|flutter_criss_cross_xo|roll_the_die - Roshan Rahman|
 |--|--|--|
-|<img src="./screenshots/quiz_app_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/pashatto_rev_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/fastmad_01.png" height="500" width="280" alt="Screenshot"/>|
+|<img src="./screenshots/quiz_app_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/pashatto_rev_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/roll_the_die%20-%20Roshan%20Rahman_02.png" height="500" width="280" alt="Screenshot"/>|
 
 |stopwatch-master|headlines|biology_dive|
 |--|--|--|
@@ -606,10 +606,13 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/writr_app_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create_02 (2).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create_friedri5_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|Archive|tesseract|[Roguelike Minesweeper](https://github.com/inamori/5KB-Roguelike-Minesweeper)|
+|Archive|tesseract|[Transcribe](https://github.com/ManishRavi/Transcribe)|
 |--|--|--|
-|<img src="./screenshots/Archive_02 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/tesseract_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/roguelike-minesweeper.png" height="500" width="280" alt="Screenshot"/>|
+|<img src="./screenshots/Archive_02 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/tesseract_02.png" height="500" width="280" alt="Screenshot"/>|<img src="https://github.com/ManishRavi/Transcribe/blob/master/images/transcribe2.jpg" height="500" width="280" alt="Screenshot"/>
 
+|[Roguelike Minesweeper](https://github.com/inamori/5KB-Roguelike-Minesweeper)|
+|--|
+|<img src="./screenshots/roguelike-minesweeper.png" height="500" width="280" alt="Screenshot"/>|
 
 ## Please Contribute
 1. Fork the the project
