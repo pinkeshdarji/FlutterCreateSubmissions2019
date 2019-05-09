@@ -418,9 +418,9 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/app - Hong Yew_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_contest_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/color_matching_game_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|flutter_bird|happy_birthday|pomerdoro|
+|[flutter_bird](https://github.com/BenBtg/FlutterBird)|happy_birthday|pomerdoro|
 |--|--|--|
-|<img src="./screenshots/flutter_bird_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/happy_birthday_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/pomerdoro_02.png" height="500" width="280" alt="Screenshot"/>|
+|<img src="./screenshots/FlutterBirdVideo.gif" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/happy_birthday_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/pomerdoro_02.png" height="500" width="280" alt="Screenshot"/>|
 
 |cardos|timeflow|wordgame|
 |--|--|--|
