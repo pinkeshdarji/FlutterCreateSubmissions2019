@@ -66,7 +66,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 
 |[Comical](https://github.com/naththeprince/comical) - Meghanath Ganji|bmi_calc|create_aloisdeniel - Aloïs Deniel|
 |--|--|--|
-|<img src="https://github.com/naththeprince/comical/blob/master/samples/comical-demo.gif" height="607" width="280" alt="Screenshot"/>|<img src="./screenshots/bmi_calc_01 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/create_aloisdeniel - Aloïs Deniel_02.png" height="500" width="280" alt="Screenshot"/>|
+|<img src="https://github.com/naththeprince/comical/blob/master/samples/comical-demo.gif" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/bmi_calc_01 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/create_aloisdeniel - Aloïs Deniel_02.png" height="500" width="280" alt="Screenshot"/>|
 
 |relax|SwearFiltr - Mark Anthony|flutter_create_astiglme|
 |--|--|--|
