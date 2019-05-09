@@ -240,7 +240,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/zoo_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/bezier_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/naturadio_02.png" height="500" width="280" alt="Screenshot"/>|
 
-|count_the_sheep|live-shades-app-master|focus_app|
+|count_the_sheep|[Live Shades](https://github.com/JuliaRechkunova/live-shades-app)|focus_app|
 |--|--|--|
 |<img src="./screenshots/count_the_sheep_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/live-shades-app-master_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/focus_app_02.png" height="500" width="280" alt="Screenshot"/>|
 
