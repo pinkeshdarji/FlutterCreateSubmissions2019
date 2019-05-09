@@ -144,7 +144,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/shiba_5k_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/quick_meals_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/Random_facts_generator-master_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|flutter-create - Ryan Gonzalez|flutter_create_fschott-master|handwritten_digit_classifier|
+|flutter-create - Ryan Gonzalez|flutter_create_fschott-master|[MNIST Handwritten Digit Classifier - doclrogers](https://github.com/doclrogers/flutter-handwritten-digit-classifier)|
 |--|--|--|
 |<img src="./screenshots/flutter-create - Ryan Gonzalez_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create_fschott-master 2_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/handwritten_digit_classifier_01.png" height="500" width="280" alt="Screenshot"/>|
 
