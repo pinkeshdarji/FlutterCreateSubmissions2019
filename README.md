@@ -64,9 +64,9 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/project - Mustafa Khaled_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create_project_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/chucknorrisleet_01 (1).png" height="500" width="280" alt="Screenshot"/>|
 
-|Comical - Meghanath Ganji|bmi_calc|create_aloisdeniel - Aloïs Deniel|
+|[Comical](https://github.com/naththeprince/comical) - Meghanath Ganji|bmi_calc|create_aloisdeniel - Aloïs Deniel|
 |--|--|--|
-|<img src="./screenshots/Comical - Meghanath Ganji_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/bmi_calc_01 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/create_aloisdeniel - Aloïs Deniel_02.png" height="500" width="280" alt="Screenshot"/>|
+|<img src="https://github.com/naththeprince/comical/blob/master/samples/comical-demo.gif" height="607" width="280" alt="Screenshot"/>|<img src="./screenshots/bmi_calc_01 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/create_aloisdeniel - Aloïs Deniel_02.png" height="500" width="280" alt="Screenshot"/>|
 
 |relax|SwearFiltr - Mark Anthony|flutter_create_astiglme|
 |--|--|--|
@@ -80,7 +80,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/flutter_create_contest_02 (2).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/pian_bol_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/amnaturer_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|Contest-master|20pics - Gergely Kőrössy|flutter_flare_actor-master|
+|Contest-master|20pics - Gergely Kőrössy|flutter_flare_actor-master|
 |--|--|--|
 |<img src="./screenshots/flutter_contest-master_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/20pics - Gergely Kőrössy_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_flare_actor-master_01.png" height="500" width="280" alt="Screenshot"/>|
 
@@ -486,7 +486,7 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/story_maker_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/praga_flutter_app_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/Flutter_Create-master_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|SOUNDBOARD - Ignacio Echeverría|create|align_your_horizont|
+|SOUNDBOARD - Ignacio Echeverría|create|align_your_horizont|
 |--|--|--|
 |<img src="./screenshots/SOUNDBOARD - Ignacio Echeverría_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/create_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/align_your_horizont_02.png" height="500" width="280" alt="Screenshot"/>|
 
