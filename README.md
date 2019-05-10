@@ -180,9 +180,9 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/onboard_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/tap2play_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/proqoutes_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|taggr|flutter_create|compass|
+|taggr|flutter_create|[compass](https://github.com/zesage/flutter_compass)|
 |--|--|--|
-|<img src="./screenshots/taggr_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create 2_01 (2).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/compass_01.png" height="500" width="280" alt="Screenshot"/>|
+|<img src="./screenshots/taggr_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create 2_01 (2).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/compass_01.gif" height="500" width="280" alt="Screenshot"/>|
 
 |search_transition|solar_system|morse_camera|
 |--|--|--|
