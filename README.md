@@ -610,9 +610,9 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/Archive_02 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/tesseract_02.png" height="500" width="280" alt="Screenshot"/>|<img src="https://github.com/ManishRavi/Transcribe/blob/master/images/transcribe2.jpg" height="500" width="280" alt="Screenshot"/>
 
-|[Roguelike Minesweeper](https://github.com/inamori/5KB-Roguelike-Minesweeper)|[swap_card](https://github.com/yenru/swap_card)
-|--|--|
-|<img src="./screenshots/roguelike-minesweeper.png" height="500" width="280" alt="Screenshot"/>|<img src="https://github.com/yenru/swap_card/blob/master/screen.gif" height="500" width="280" alt="Screenshot"/>|
+|[Roguelike Minesweeper](https://github.com/inamori/5KB-Roguelike-Minesweeper)|[swap_card](https://github.com/yenru/swap_card)|Warranties Vigilante|
+|--|--|--|
+|<img src="./screenshots/roguelike-minesweeper.png" height="500" width="280" alt="Screenshot"/>|<img src="https://github.com/yenru/swap_card/blob/master/screen.gif" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/warranties_vigilante (Gustavo Muñoz).png" height="500" width="280" alt="warranties_vigilante"/>|
 
 ## Please Contribute
 1. Fork the the project
