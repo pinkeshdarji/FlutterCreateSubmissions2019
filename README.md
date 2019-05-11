@@ -1,3 +1,4 @@
+
 ﻿
 
 <img src="screenshots/fcsubmissionsimg.png"  alt="Screenshot"/>
@@ -335,9 +336,9 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |<img src="./screenshots/Traveling-MobileApp-Design-master_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/profile_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create_bush_01.png" height="500" width="280" alt="Screenshot"/>|
 
 
-|ticket_view|flutter_create_app|drugcula|
+|ticket_view|flutter_create_app|[drugcula](https://github.com/terrence0488/flutter-create-drugcula)|
 |--|--|--|
-|<img src="./screenshots/ticket_view_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create_app_02 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/drugcula_02.png" height="500" width="280" alt="Screenshot"/>|drugcula_02.png
+|<img src="./screenshots/ticket_view_01.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create_app_02 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/drugcula.gif" height="500" width="280" alt="Screenshot"/>|drugcula.gif
 
 
 |flutter_create-Kirill|flutter_5kb_competition|kaleidoscope|
