@@ -620,9 +620,9 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="https://github.com/CatalinBoiangiu/TimeWatcher/blob/master/screenshots/28.png" height="500" width="280" alt="Screenshot"/>|<img src="screenshots/flutters-amazing.gif" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/How's%20Moon%20Screenshot.png" height="500" width="280" alt="Screenshot"/>|
 
-|Warranties Vigilante|
-|--|
-|<img src="./screenshots/warranties_vigilante (Gustavo Muñoz).png" height="500" width="280" alt="warranties_vigilante"/>|
+|Warranties Vigilante|[Everyday Contrib](https://github.com/178inaba/everyday_contrib)|
+|--|--|
+|<img src="./screenshots/warranties_vigilante (Gustavo Muñoz).png" height="500" width="280" alt="warranties_vigilante"/>|<img src="screenshots/everyday_contrib.png" alt="Everyday Contrib" width="280">|
 
 ## Please Contribute
 1. Fork the the project
