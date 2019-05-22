@@ -510,9 +510,9 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/create_01 (1).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_app-sohaib_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/babynames_02.png" height="500" width="280" alt="Screenshot"/>|
 
-|flutter_app_cuberto|flutter_create|k5|
+|[flutter_app_cuberto](https://github.com/kushalmahapatro/cuberto_bottom_bar)|flutter_create|k5|
 |--|--|--|
-|<img src="./screenshots/flutter_app_cuberto_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create_01 (3).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/k5_02.png" height="500" width="280" alt="Screenshot"/>|
+|<img src="https://github.com/kushalmahapatro/cuberto_bottom_bar/blob/master/cuberto_bottom_bar.gif" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/flutter_create_01 (3).png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/k5_02.png" height="500" width="280" alt="Screenshot"/>|
 
 |flutterstein-3d|day_to_day|mask_transition|
 |--|--|--|
