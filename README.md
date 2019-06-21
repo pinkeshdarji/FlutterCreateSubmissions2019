@@ -479,9 +479,9 @@ An Effort to gather all Flutter Create App submissions at one place from various
 |--|--|--|
 |<img src="./screenshots/touch_the_programming_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/Flutter Create Boids Miguel Polvora - Miguel Pólvora_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/kingsnote_01.png" height="500" width="280" alt="Screenshot"/>|
 
-|well-elephants|mh_alert - Admin ZanderPaul|bugz|
+|well-elephants|mh_alert - Admin ZanderPaul|[bugz](https://github.com/harshalrj25/BUGZ_Flutter_game)|
 |--|--|--|
-|<img src="./screenshots/well-elephants_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/mh_alert - Admin ZanderPaul_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/bugz_01.png" height="500" width="280" alt="Screenshot"/>|
+|<img src="./screenshots/well-elephants_02.png" height="500" width="280" alt="Screenshot"/>|<img src="./screenshots/mh_alert - Admin ZanderPaul_02.png" height="500" width="280" alt="Screenshot"/>|<img src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/bugz.gif" height="500" width="280" alt="Screenshot"/>|
 
 |story_maker|praga_flutter_app|Flutter_Create-master|
 |--|--|--|
